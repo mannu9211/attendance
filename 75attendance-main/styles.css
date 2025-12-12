@@ -55,13 +55,14 @@ strong {
   margin-top: 0.6rem;
 }
 
-/* DIVIDER */
+/* DIVIDER 
 .divider {
   width: 100%;
   height: 1px;
   background-color: #ddd;
   margin: 1rem 0 2rem 0;
 }
+*/
 
 /* CENTERED CONTAINER */
 .container-centered {
